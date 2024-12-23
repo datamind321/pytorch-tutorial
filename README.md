@@ -4,3 +4,4 @@
 ## 2. Tensors in Pytorch
 ## 3. Pytorch Autograd
 ## 4. Model Training Pipeline
+  - The PyTorch nn module
